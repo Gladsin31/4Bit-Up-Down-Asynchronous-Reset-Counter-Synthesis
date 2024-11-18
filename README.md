@@ -1,4 +1,4 @@
-# 4Bit-Up-Down-Asynchronous-Reset-Counter-Synthesis
+# Exp-4: 4Bit-Up-Down-Asynchronous-Reset-Counter-Synthesis
 
 ## Aim:
 
@@ -69,13 +69,15 @@ used.
 
 #### Area report:
 
-![Screenshot (41)](https://github.com/user-attachments/assets/59ce3179-d794-4392-a2a6-0c33c9d035cc)
+![Screenshot (51)](https://github.com/user-attachments/assets/df944c31-e9b4-4548-9b0d-277caaa11a9e)
 
 #### Power Report:
 
-![Screenshot (42)](https://github.com/user-attachments/assets/db0de1c3-1c03-4c0f-9f36-eba5e26770a6)
+![Screenshot (50)](https://github.com/user-attachments/assets/2ed17e2d-7bcf-4f8b-9d04-3e282ec16e83)
 
 #### Timing Report: 
+
+![Screenshot (52)](https://github.com/user-attachments/assets/dc1a77a5-9ced-4d7e-ad7c-62f2c309d822)
 
 #### Result: 
 
