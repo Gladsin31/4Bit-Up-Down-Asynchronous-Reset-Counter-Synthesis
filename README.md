@@ -65,19 +65,19 @@ used.
 
 #### Synthesis RTL Schematic :
 
-![08](https://github.com/user-attachments/assets/9637cebc-c27b-46d7-bd35-00105d1fef24)
+![Screenshot (56)](https://github.com/user-attachments/assets/02af448d-d479-4321-8951-09539705053f)
 
 #### Area report:
 
-![Screenshot (51)](https://github.com/user-attachments/assets/df944c31-e9b4-4548-9b0d-277caaa11a9e)
+![Screenshot (57)](https://github.com/user-attachments/assets/bb776bfe-86f7-4db2-bc1e-846916a07e7d)
 
 #### Power Report:
 
-![Screenshot (50)](https://github.com/user-attachments/assets/2ed17e2d-7bcf-4f8b-9d04-3e282ec16e83)
+![Screenshot (58)](https://github.com/user-attachments/assets/a5f60433-1fee-46ae-9448-e9fa5caa044c)
 
 #### Timing Report: 
 
-![Screenshot (52)](https://github.com/user-attachments/assets/dc1a77a5-9ced-4d7e-ad7c-62f2c309d822)
+![Screenshot (59)](https://github.com/user-attachments/assets/1d286d5c-e643-4ee3-b958-813f7cfaa322)
 
 #### Result: 
 
